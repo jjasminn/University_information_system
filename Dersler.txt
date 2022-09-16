@@ -1,0 +1,5 @@
+DERS_ID,DERS_ADI,KREDI,KONTENJAN
+BLM2011,Istatistik_ve_Olasilik_Hesaplamalari,1,6
+BLM2021,Alt_Seviye_programlama,3,7
+BLM2041,Lojik_devreler,2,1
+MBD2051,Ingilizce_Okuma_Konusma,4,4
